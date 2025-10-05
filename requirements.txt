@@ -1,0 +1,11 @@
+# Backend
+fastapi
+uvicorn[standard]
+
+# Logic
+numpy
+pandas
+
+# Frontend
+streamlit
+requests
