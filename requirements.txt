@@ -9,3 +9,4 @@ pandas
 # Frontend
 streamlit
 requests
+matplotlib
